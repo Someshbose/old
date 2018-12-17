@@ -11,6 +11,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
+exclude: ['vendor']
 navigation:
  - title: Home
    url: /index.html
