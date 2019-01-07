@@ -3,3 +3,6 @@ _site
 .DS_Store
 .ruby-version
 node_modules
+README.md
+LICENSE
+#feed.xml
